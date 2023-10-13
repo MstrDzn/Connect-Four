@@ -7,34 +7,26 @@ I have taken this project during a year of my preparatory class in the computer 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b>
+- <b>Connect Four</b>
 
 
 <h2>Project walk-through</h2>
 
 <p align="center">
-First, we can take a look at the few diagrams that describe the project well (in french)<br/>
-<a href="https://imgur.com/MoyFWit"><img src="https://i.imgur.com/MoyFWit.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/kLBT65K"><img src="https://i.imgur.com/kLBT65K.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/OCTaUPG"><img src="https://i.imgur.com/OCTaUPG.png" title="source: imgur.com" /></a>
+While launching the program, a prompt asking the user to indicate a difficulty is displayed, you have to put a number between 0-2 to select the gamemode<br/>
+<a href="https://imgur.com/kBQDRoi"><img src="https://i.imgur.com/kBQDRoi.png" title="source: imgur.com" /></a>
 <br />
 <br />
-In parallel of this, we created the tank in 3D with the required and physically studied dimensions  <br/>
-<a href="https://imgur.com/p2AmRif"><img src="https://i.imgur.com/p2AmRif.png" title="source: imgur.com" /></a>
+Once the gamemode selected, the board is displayed and you can begin to play by clicking anywhere (here, mode 0=2 players is selected) <br/>
+<a href="https://imgur.com/k0LrBQB"><img src="https://i.imgur.com/k0LrBQB.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Thus, we created a real model with 3D pieces printed by us, and with all our sensors<br/>
-<a href="https://imgur.com/kHo4ZxC"><img src="https://i.imgur.com/kHo4ZxC.jpg" title="source: imgur.com" /></a>
+You can click anywhere in the column you want to place your token, once displayed, the second player can place his, and then you can play until someone win<br/>
+<a href="https://imgur.com/Yxq3A0K"><img src="https://i.imgur.com/Yxq3A0K.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Once everything connected to the arduino card, with the Mobile App linked to the arduino code (projet TIPE.ino) (thanks to the bluetooth sensor) we get this<br/>
-<a href="https://imgur.com/4Wd565W"><img src="https://i.imgur.com/4Wd565W.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/4Wd565W"><img src="https://i.imgur.com/4Wd565W.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/TOGOpuO"><img src="https://i.imgur.com/TOGOpuO.png" title="source: imgur.com" /></a>
-<br />
-<br />
-And we have the output from all the different sensors in real time and we can choose to open or close the valve  <br/>
-<a href="https://imgur.com/w1aTVJF"><img src="https://i.imgur.com/w1aTVJF.png" title="source: imgur.com" /></a>
+When one play has managed to win, this message is displayed telling the red or yellow player has won the game. Another one is coded for a tie.<br/>
+<a href="https://imgur.com/G9IZQY3"><img src="https://i.imgur.com/G9IZQY3.png" title="source: imgur.com" /></a>
 <br />
 <br />
 
