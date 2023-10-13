@@ -1,4 +1,4 @@
-<h1>TIPE</h1>
+<h1>Connect Four</h1>
 
 <h2>Description</h2>
 I have taken this project during a year of my preparatory class in the computer science course, it is a connect four interactive game where you can play against another player or against a bot (kinda basic). It uses TKinter a lot to maange clickablility.
@@ -7,7 +7,7 @@ I have taken this project during a year of my preparatory class in the computer 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Connect Four</b>
+- <b>Python</b>
 
 
 <h2>Project walk-through</h2>
