@@ -1,1 +1,40 @@
-# Connect-Four
+<h1>TIPE</h1>
+
+<h2>Description</h2>
+I have taken this project during a year of my preparatory class in the computer science course, it is a connect four interactive game where you can play against another player or against a bot (kinda basic). It uses TKinter a lot to maange clickablility.
+<br />
+
+
+<h2>Languages and Utilities Used</h2>
+
+- <b>Python</b>
+
+
+<h2>Project walk-through</h2>
+
+<p align="center">
+First, we can take a look at the few diagrams that describe the project well (in french)<br/>
+<a href="https://imgur.com/MoyFWit"><img src="https://i.imgur.com/MoyFWit.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/kLBT65K"><img src="https://i.imgur.com/kLBT65K.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/OCTaUPG"><img src="https://i.imgur.com/OCTaUPG.png" title="source: imgur.com" /></a>
+<br />
+<br />
+In parallel of this, we created the tank in 3D with the required and physically studied dimensions  <br/>
+<a href="https://imgur.com/p2AmRif"><img src="https://i.imgur.com/p2AmRif.png" title="source: imgur.com" /></a>
+<br />
+<br />
+Thus, we created a real model with 3D pieces printed by us, and with all our sensors<br/>
+<a href="https://imgur.com/kHo4ZxC"><img src="https://i.imgur.com/kHo4ZxC.jpg" title="source: imgur.com" /></a>
+<br />
+<br />
+Once everything connected to the arduino card, with the Mobile App linked to the arduino code (projet TIPE.ino) (thanks to the bluetooth sensor) we get this<br/>
+<a href="https://imgur.com/4Wd565W"><img src="https://i.imgur.com/4Wd565W.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/4Wd565W"><img src="https://i.imgur.com/4Wd565W.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/TOGOpuO"><img src="https://i.imgur.com/TOGOpuO.png" title="source: imgur.com" /></a>
+<br />
+<br />
+And we have the output from all the different sensors in real time and we can choose to open or close the valve  <br/>
+<a href="https://imgur.com/w1aTVJF"><img src="https://i.imgur.com/w1aTVJF.png" title="source: imgur.com" /></a>
+<br />
+<br />
+
